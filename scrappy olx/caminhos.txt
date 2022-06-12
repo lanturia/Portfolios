@@ -1,0 +1,66 @@
+DDD 11 - São Paulo e região
+/html/body/div[2]/div[2]/div[2]/div/div[2]/div[2]/div/div[6]/div/div/div/div[2]/div/div[1]/div[1]/div/a
+	Capital:
+	Centro
+	/html/body/div[2]/div[2]/div[2]/div/div[2]/div[2]/div/div[6]/div/div/div/div[2]/div/div[1]/div/div/div[1]/div/a
+	Zona Leste
+	/html/body/div[2]/div[2]/div[2]/div/div[2]/div[2]/div/div[6]/div/div/div/div[2]/div/div[1]/div/div/div[2]/div/a
+	Zona Norte
+	/html/body/div[2]/div[2]/div[2]/div/div[2]/div[2]/div/div[6]/div/div/div/div[2]/div/div[1]/div/div/div[3]/div/a
+	Zona Oeste
+	/html/body/div[2]/div[2]/div[2]/div/div[2]/div[2]/div/div[6]/div/div/div/div[2]/div/div[1]/div/div/div[4]/div/a
+	Zona Sul
+	/html/body/div[2]/div[2]/div[2]/div/div[2]/div[2]/div/div[6]/div/div/div/div[2]/div/div[1]/div/div/div[5]/div/a
+	Grande São Paulo:
+	ABCD
+	/html/body/div[2]/div[2]/div[2]/div/div[2]/div[2]/div/div[6]/div/div/div/div[2]/div/div[2]/div/div/div[1]/div/a
+	Alphaville e Tamboré
+	/html/body/div[2]/div[2]/div[2]/div/div[2]/div[2]/div/div[6]/div/div/div/div[2]/div/div[2]/div/div/div[2]/div/a
+	Outras cidades
+	/html/body/div[2]/div[2]/div[2]/div/div[2]/div[2]/div/div[6]/div/div/div/div[2]/div/div[2]/div/div/div[3]/div/a
+	Outros:
+	Interior
+	/html/body/div[2]/div[2]/div[2]/div/div[2]/div[2]/div/div[6]/div/div/div/div[2]/div/div[3]/div/div/div[1]/div/a
+	Região de Bragança
+	/html/body/div[2]/div[2]/div[2]/div/div[2]/div[2]/div/div[6]/div/div/div/div[2]/div/div[3]/div/div/div[2]/div/a
+	Região de Jundiaí
+	/html/body/div[2]/div[2]/div[2]/div/div[2]/div[2]/div/div[6]/div/div/div/div[2]/div/div[3]/div/div/div[3]/div/a
+
+DDD 12 - V. do Paraíba e Litoral Norte
+/html/body/div[2]/div[2]/div[2]/div/div[2]/div[2]/div/div[6]/div/div/div/div[2]/div/div[1]/div[2]/div/a
+DDD 13 - Baixada Santista e Litoral Sul
+/html/body/div[2]/div[2]/div[2]/div/div[2]/div[2]/div/div[6]/div/div/div/div[2]/div/div[1]/div[3]/div/a
+DDD 14 - Bauru, Marília e região
+/html/body/div[2]/div[2]/div[2]/div/div[2]/div[2]/div/div[6]/div/div/div/div[2]/div/div[1]/div[4]/div/a
+DDD 15 - Sorocaba e região
+/html/body/div[2]/div[2]/div[2]/div/div[2]/div[2]/div/div[6]/div/div/div/div[2]/div/div[1]/div[5]/div/a
+DDD 16 - Ribeirão Preto e região
+/html/body/div[2]/div[2]/div[2]/div/div[2]/div[2]/div/div[6]/div/div/div/div[2]/div/div[1]/div[6]/div/a
+DDD 17 - S. José do Rio Preto e região
+/html/body/div[2]/div[2]/div[2]/div/div[2]/div[2]/div/div[6]/div/div/div/div[2]/div/div[1]/div[7]/div/a
+DDD 18 - Presidente Prudente e região
+/html/body/div[2]/div[2]/div[2]/div/div[2]/div[2]/div/div[6]/div/div/div/div[2]/div/div[1]/div[8]/div/a
+DDD 19 - Grande Campinas
+/html/body/div[2]/div[2]/div[2]/div/div[2]/div[2]/div/div[6]/div/div/div/div[2]/div/div[1]/div[9]/div/a
+
+----------------
+
+
+Zona Norte
+/html/body/div[2]/div[2]/div[2]/div/div[2]/div[2]/div/div[6]/div/div/div/div[2]/div/div[1]/div/div/div[3]/div/a
+Zona Oeste
+/html/body/div[2]/div[2]/div[2]/div/div[2]/div[2]/div/div[6]/div/div/div/div[2]/div/div[1]/div/div/div[4]/div/a
+Zona Sul
+/html/body/div[2]/div[2]/div[2]/div/div[2]/div[2]/div/div[6]/div/div/div/div[2]/div/div[1]/div/div/div[5]/div/a
+ABCD
+/html/body/div[2]/div[2]/div[2]/div/div[2]/div[2]/div/div[6]/div/div/div/div[2]/div/div[2]/div/div/div[1]/div/a
+Alphaville e Tamboré
+/html/body/div[2]/div[2]/div[2]/div/div[2]/div[2]/div/div[6]/div/div/div/div[2]/div/div[2]/div/div/div[2]/div/a
+Outras cidades
+/html/body/div[2]/div[2]/div[2]/div/div[2]/div[2]/div/div[6]/div/div/div/div[2]/div/div[2]/div/div/div[3]/div/a
+Interior
+/html/body/div[2]/div[2]/div[2]/div/div[2]/div[2]/div/div[6]/div/div/div/div[2]/div/div[3]/div/div/div[1]/div/a
+Região de Bragança
+/html/body/div[2]/div[2]/div[2]/div/div[2]/div[2]/div/div[6]/div/div/div/div[2]/div/div[3]/div/div/div[2]/div/a
+Região de Jundiaí
+/html/body/div[2]/div[2]/div[2]/div/div[2]/div[2]/div/div[6]/div/div/div/div[2]/div/div[3]/div/div/div[3]/div/a
