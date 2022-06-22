@@ -36,4 +36,4 @@ while True:
             sg.popup('Senha invalida.',text_color= 'red')
     except:
         sg.popup('Erro de validação do usuario.',text_color= 'red')
-window.close()
+# window.close()
